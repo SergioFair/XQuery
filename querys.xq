@@ -13,3 +13,21 @@ and $city[starts-with(.,'A')]
       for $b in $p/population
       return $b/text()
     }</population>
+
+(:Primera consulta FLWOR. Obtener los países con menos población del mundo. Mostraremos aquellos que tengan menos de 100.000 habitantes:)
+
+for $c in //country
+let $name:=$c/name
+where $c/population<100000 and $c/name!='Holy See'
+order by $c/population ascending
+    return <population country="{$name}">{
+      for $p in $c/population
+      return $p/text()
+    }</population>
+
+(:Segunda consulta FLWOR. Obtener aquellos países en los que haya mayor diversidad religiosa. Mostraremos aquellos en los que haya más de 5 religiones:)
+
+for $c in //country
+let $name:=$c/name
+where count($c/religions)>5
+return <religions country="{$name}">{count($c/religions)}</religions>
