@@ -6,7 +6,7 @@
 //country[@population_growth>2.1]/name
 
 (: Query compleja anidada. Devolver países con más de 10 provincias, teniendo como atributos
-el nombre del país, número de provincias y la población promedia de estas. Dentro de estos
+el nombre del país, número de provincias y la población promedio de estas. Dentro de estos
 habrá elementos hijos con el nombre de cada provincia, siendo estos elementos ordenados
 por su población.:)
 
