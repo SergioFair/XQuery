@@ -1,0 +1,97 @@
+1)
+	<name>Brunei</name>
+	<name>Haiti</name>
+	<name>Fiji</name>
+	<name>Kiribati</name>
+	<name>Burundi</name>
+	<name>Djibouti</name>
+	<name>Malawi</name>
+	<name>Mali</name>
+	
+	
+2) (Limitado a 10)
+	<name>Andorra</name>
+	<name>Afghanistan</name>
+	<name>Bahrain</name>
+	<name>Bhutan</name>
+	<name>Brunei</name>
+	<name>Cambodia</name>
+	<name>Iran</name>
+	<name>Iraq</name>
+	<name>Israel</name>
+	<name>Jordan</name>
+	
+	
+3) (Limitada a 2)
+	<country name="Finland" prov_number="12" avg_prov_pop="397583.3333333333">
+		<province>Turku-Pori</province>
+		<province>Haeme</province>
+		<province>Vaasa</province>
+		<province>Oulu</province>
+		<province>Kymi</province>
+		<province>Kuopio</province>
+		<province>Suomi</province>
+		<province>Aland</province>
+		<province>Mikkeli</province>
+		<province>Lappia</province>
+		<province>Pohjols-Karjala</province>
+		<province>Uusimaa</province>
+	</country>
+	<country name="France" prov_number="22" avg_prov_pop="2.5733636363636362E6">
+		<province>Limousin</province>
+		<province>Rhone Alpes</province>
+		<province>Provence Cote dAzur</province>
+		<province>Nord Pas de Calais</province>
+		<province>Pays de la Loire</province>
+		<province>Aquitaine</province>
+		<province>Bretagne</province>
+		<province>Corse</province>
+		<province>Midi Pyrenees</province>
+		<province>Centre</province>
+		<province>Lorraine</province>
+		<province>Languedoc Rousillon</province>
+		<province>Picardie</province>
+		<province>Haute Normandie</province>
+		<province>Alsace</province>
+		<province>Bourgogne</province>
+		<province>Poitou Charentes</province>
+		<province>Basse Normandie</province>
+		<province>Champagne Ardenne</province>
+		<province>Auvergne</province>
+		<province>Franche Comte</province>
+		<province>Ile de France</province>
+	</country>
+	
+	
+4) (Limitada a 10)
+	<population city="Antwerp">459072</population>
+	<population city="Brussels Agglomeration">951580</population>
+	<population city="Augsburg">262110</population>
+	<population city="Aachen">247113</population>
+	<population city="Athens Athinai">885737</population>
+	<population city="Arnhem">314159</population>
+	<population city="Amsterdam">1101407</population>
+	<population city="Arkhangelsk">374000</population>
+	<population city="Astrakhan">486000</population>
+	<population city="Angarsk">267000</population>
+	
+	
+5) (Limitada a 10)
+	<population country="Svalbard">2116</population>
+	<population country="San Marino">24521</population>
+	<population country="Gibraltar">28765</population>
+	<population country="Liechtenstein">31122</population>
+	<population country="Monaco">31719</population>
+	<population country="Faroe Islands">43857</population>
+	<population country="Guernsey">62920</population>
+	<population country="Andorra">72766</population>
+	<population country="Man">73837</population>
+	<population country="Jersey">87848</population>
+	
+	
+6)
+	<religions country="India">6</religions>
+	<religions country="Papua New Guinea">7</religions>
+	<religions country="Bahamas">6</religions>
+	<religions country="New Zealand">6</religions>
+	<religions country="Solomon Islands">6</religions></province>
